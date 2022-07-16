@@ -11,6 +11,7 @@ I'm a passionate MERN Stack Web Developer and I am interested in developing new 
 - 💬 Ask me about Coding
 - 📫 How to reach me: numansaady@gmail.com
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=numansaady&theme=radical)
 
 ## 🚀 Languages and Tools:
 
