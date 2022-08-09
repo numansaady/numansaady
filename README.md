@@ -1,5 +1,5 @@
 ## 🙋‍♂️ About Me
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px" height="40px">, I'm Numan Saady</h1>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px" height="40px">, I'm Md Numan Ahmed</h1>
 
 I'm a passionate MERN Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner.
 
